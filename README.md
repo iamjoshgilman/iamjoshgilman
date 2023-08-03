@@ -2,9 +2,9 @@
 
 I am Josh Gilman, currently I am a student studying Cybersecurity. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-gilman/)](https://www.linkedin.com/in/joshua-gilman/)
+[![Linkedin Badge](https://img.shields.io/badge/-JoshuaGilman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-gilman/)](https://www.linkedin.com/in/joshua-gilman/)
 ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)(https://whiterqbbit.ghost.io/ghost/#/dashboard)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:IAmJoshGilamn@gmail.com)](mailto:IAmJoshGilman@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-IAmJoshGilman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:IAmJoshGilamn@gmail.com)](mailto:IAmJoshGilman@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
 
