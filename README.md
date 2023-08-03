@@ -14,15 +14,15 @@
 
 [![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://whiterqbbit.com)
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/joshua-gilman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gilman)
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="=https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />]
-[<img align="left" alt="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />]
-[<img align="left" alt="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />]
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+[![WireShark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+[![KaliLinux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 <!-- You can use https://simpleicons.org/ to get icons for the languages and tools. -->
 
