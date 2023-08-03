@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-I am Josh Gilman, currently I am a student studying Cybersecurity. Find out more about me & feel free to connect with me here:
+I am Josh Gilman, currently I am a student studying Cybersecurity. 
 
-<!-- ## ⚡ Technologies -->
+<!-- ## ⚡ Technologies
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WhiteRqbbitt&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRqbbitt&hide=TeX&layout=compact)
-
-
-<!--
 **WhiteRqbbitt/WhiteRqbbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
