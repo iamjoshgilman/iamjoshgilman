@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" />][https://whiterqbbit.com]
-[<img align="left" alt="Joshua Gilman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/joshua-gilman]
+[![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://whiterqbbit.com)
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/joshua-gilman)
 
 <br />
 
