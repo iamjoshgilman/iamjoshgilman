@@ -5,14 +5,13 @@
 ## I'm a Cybersecurity Specialist, Tech Enthusiast, and Lifelong Learner!
 
 - 🔭 I'm currently studying at SANS Technology Institute for my Bachelor’s Degrees in Applied Cybersecurity (BACS)
-- 🌱 I'm always learning and currently immersing myself in Practical Malware Analysis & Triage.
-- 👯 I'm looking to collaborate with other cybersecurity enthusiasts.
-- 🥅 2023 Goals: Contribute more to Open Source projects and complete my GIAC exams.
+- 🌱 I'm always learning and currently immersing myself in Windows forensics and Python
+- 🥅 2024 Goals: Build projects, finish my degree, get into the industry!
 - 💬 Ask me about cybersecurity, ethical hacking, and network security.
 
 ### Connect with me:
 
-[![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://whiterqbbit.com)
+[![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://iamjoshgilman.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-gilman)
 
@@ -31,5 +30,5 @@
 <!-- You can use https://github.com/anmol098/waka-readme-stats for this section. -->
 <!--END_SECTION:waka-->
 
-[website]: https://whiterqbbit.com
+[website]: https://iamjoshgilman.com
 [linkedin]: https://linkedin.com/in/joshua-gilman
