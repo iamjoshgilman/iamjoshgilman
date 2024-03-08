@@ -7,7 +7,6 @@
 - 🔭 I'm currently studying at SANS Technology Institute for my Bachelor’s Degrees in Applied Cybersecurity (BACS)
 - 🌱 I'm always learning and currently immersing myself in Windows forensics and Python
 - 🥅 2024 Goals: Build projects, finish my degree, get into the industry!
-- 💬 Ask me about cybersecurity, ethical hacking, and network security.
 
 ### Connect with me:
 
