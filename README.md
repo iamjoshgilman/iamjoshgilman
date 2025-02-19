@@ -1,13 +1,5 @@
 # Hi there, I'm Josh Gilman 👋
 
-
-
-## I'm a Cybersecurity Specialist, Tech Enthusiast, and Lifelong Learner!
-
-- 🔭 I'm currently studying at SANS Technology Institute for my Bachelor’s Degrees in Applied Cybersecurity (BACS)
-- 🌱 I'm always learning and currently immersing myself in Windows forensics and Python
-- 🥅 2024 Goals: Build projects, finish my degree, get into the industry!
-
 ### Connect with me:
 
 [![Ghost](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://iamjoshgilman.com)
